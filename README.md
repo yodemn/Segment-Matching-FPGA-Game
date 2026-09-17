@@ -1,4 +1,4 @@
-# DDR (Dance Dance Revolution) — how to play
+# Segment-Matching-FGPA-Game(Dance Dance Revolution) — how to play
 
 A segment-clearing reflex game built for the Basys3, styled after the arcade rhythm games
 in Akihabara and Shibuya. Two of the four seven-segment digits become a 14-segment "board";
